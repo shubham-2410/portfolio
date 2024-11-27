@@ -7,6 +7,12 @@ This application should now be running on `localhost`. If you want to Fork repos
 
 Welcome to my personal portfolio website! This project is a responsive webpage designed to showcase my skills, projects, and professional achievements. It serves as an interactive resume, demonstrating my expertise in web development and personal branding.  
 
+![image](https://github.com/user-attachments/assets/2feef05d-915a-4d61-920c-3a0750236fe7)
+![image](https://github.com/user-attachments/assets/f4a0cd89-6ea6-4a8b-b8d3-231cabe76dc9)
+![image](https://github.com/user-attachments/assets/5af60d16-1ae6-4bdc-8287-31704f6d4a8a)
+![image](https://github.com/user-attachments/assets/db9a06bf-6116-41ef-8e82-77528b91ef63)
+
+
 ## Live Website  
 Check out the live version of my portfolio: [Portfolio Website](https://shubham-2410.github.io/portfolio/)  
 
