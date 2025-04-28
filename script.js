@@ -67,8 +67,11 @@ $(document).ready(function () {
   $(".carousel").owlCarousel({
     margin: 20,
     loop: true,
+    autoplay : true,
     autoplayTimeout: 2000,
     autoplayHoverPause: true,
+    dots: true,
+    dotsEach: 1,
     responsive: {
       0: {
         items: 1,
